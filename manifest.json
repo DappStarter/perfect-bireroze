@@ -1,0 +1,9 @@
+{
+    "name": "ONETWO-test",
+    "blocks": {
+        "/blockchain/harmony": true,
+        "/blockchain/harmony/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage": false
+    }
+}
